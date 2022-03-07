@@ -557,7 +557,7 @@ return crypto.randomBytes(size).toString('hex').slice(0, size)
 }
 const Prem1 = `Hai ${pushname}\nKamu Belum Premium, minta ke owner agar bisa menggunakan fitur inii!!`
 const Prem2 = '```Nomor Owner Di Bawah Ini Kak```'
-const Prem3 = [{buttonId: `${prefix}owner`,buttonText: {displayText: `🌱 OWNER 🌱`,},type: 1,},]
+const Prem3 = [{buttonId: `${prefix}owner`,buttonText: {displayText: `OWNER XzeeBotz`,},type: 1,},]
 
 //Sticker Ngab
 const sendStickerFromUrl = async(to, url) => {
@@ -698,7 +698,7 @@ participant: `0@s.whatsapp.net`, ...(from ?
 },
 message: { 
 "videoMessage": { 
-"title": `Ryuuka Botz🐧`,
+"title": `XzeeBotz🐧`,
 "h": `${tampilUcapan} ${pushname}`,
 'duration': '99999', 
 'caption': `${tampilUcapan} ${pushname}`,
