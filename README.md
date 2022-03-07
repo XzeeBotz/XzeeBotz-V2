@@ -45,6 +45,10 @@
 - npm start
 - tinggal Scan😉
 
+## `Deploy To Heroku`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XzeeBotz/XzeeBotz-V2)
+
 ## `Build Pack Heroku`
 
 - https://github.com/clhuang/heroku-buildpack-webp-binaries
